@@ -8,7 +8,8 @@ The purpose of the election audit was to review a cSV file that held the results
 4. Calculate the total number of votes each candidate won.
 5. Identify the winner of the election base on popular vote. 
 
-# Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+# Election-Audit Results: 
+Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
 - How many votes were cast in this congressional election?
 There were 369,711 total votes cast in this congressional election. 
@@ -28,5 +29,6 @@ The image below dispays the candidate names with their correspoinding vote count
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Diana DeGette won the election with 272,892 total votes and 73.8% of the total votes. 
 
-# Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+# Election-Audit Summary: 
+In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 With little modification, this script can be used to calculate the results of election taking place in your city. All that is needed isa worksheet displaying a voter id in one columns, and their vote in a second column. One modification we could make is to show where the lowest voter trun out was so campaigns can target that area during the next cycle. We could also modify the results to breakdown the candidate results by county to identify any patterns along party lines by district or county.  
